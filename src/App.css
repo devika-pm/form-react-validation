@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+.head{
+  margin: 0px;
+  padding: 0px;
+}
+.hea{
+  font-size: medium;
+}
+.body{
+  width: 100;
+  padding: 12px;
+  border: 1px solid;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+}
+.container{
+  border-radius: 5px;
+  padding: 20px;
+
+}
+@media screen and (max-width:600px){
+  .hea{
+    font-size: large;
+    width:100%;
+   
+  }
+
+}
+  
+
